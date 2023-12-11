@@ -1,0 +1,15 @@
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\bin\Debug\net7.0\Integration.exe
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\bin\Debug\net7.0\Integration.deps.json
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\bin\Debug\net7.0\Integration.runtimeconfig.json
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\bin\Debug\net7.0\Integration.dll
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\bin\Debug\net7.0\Integration.pdb
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\obj\Debug\net7.0\Integration.csproj.AssemblyReference.cache
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\obj\Debug\net7.0\Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\obj\Debug\net7.0\Integration.AssemblyInfoInputs.cache
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\obj\Debug\net7.0\Integration.AssemblyInfo.cs
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\obj\Debug\net7.0\Integration.csproj.CoreCompileInputs.cache
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\obj\Debug\net7.0\Integration.dll
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\obj\Debug\net7.0\refint\Integration.dll
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\obj\Debug\net7.0\Integration.pdb
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\obj\Debug\net7.0\Integration.genruntimeconfig.cache
+C:\Users\bora.kiris.LITUM\Source\Repos\IntegrationCaseBK\Integration\obj\Debug\net7.0\ref\Integration.dll
